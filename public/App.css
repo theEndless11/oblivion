@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+  }
+  
+  .chat-window {
+    max-height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+  }
+  
+  .message {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
